@@ -72,7 +72,7 @@ page-seat {
           list-style: none;
           display: inline-block;
           #seat_button {margin:4px;background-color:#fff;overflow:auto;color:#000;position: relative;width:35px;height: 35px;outline:none;}
-          #seat_button p{margin:0px;position: absolute;left: 0px;right: 0px;top: 0px;bottom: 0px;padding: 4px;background: url("../../assets/imgs/seat_available.png");background-repeat: no-repeat;background-position: center;background-size: 30px;}
+          #seat_button p{margin:0px;position: absolute;left: 0px;right: 0px;top: 0px;bottom: 0px;padding: 4px;background: url("../assets/imgs/seat_available.png");background-repeat: no-repeat;background-position: center;background-size: 30px;}
           #seat_button label {width:100%;}
           #seat_button label span {text-align:center;display:block;}
           #seat_button label input {position:absolute;top:-20px;}
